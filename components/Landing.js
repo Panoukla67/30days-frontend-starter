@@ -7,7 +7,7 @@ export default function Landing({ children }) {
         <title>web3rsvp</title>
         <meta
           name="description"
-          content="Find, join, and create virtual events with your web3 frens"
+          content="Find, join, and create virtual events with your web3 friends!"
         />
       </Head>
       <section className="py-12">
